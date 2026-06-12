@@ -9,15 +9,18 @@
 ### HaHa — 视频审核工作台
 视频批量审核工具，支持逐帧查看、标注画笔、状态标记、反馈记录、Excel 导入导出。
 
-**版本：** v1.2  
-**下载：** [HaHa_v1.2.zip](https://github.com/yanayang87/my-tools/releases/download/haha-v1.2/HaHa_v1.2.zip)
+**版本：** v1.3  
+**下载：** [HaHa_v1.3.zip](https://github.com/yanayang87/my-tools/releases/download/haha-v1.3/HaHa_v1.3.zip)
 
 **功能：**
-- 多目录管理，批量加载视频
+- 多目录管理，批量加载视频，刷新目录
 - 逐帧播放、缩放平移、播放速度调节
 - 画笔标注 + 截图保存
 - 通过/不通过/待定 状态标记
-- 文字反馈绑定帧号
+- 文字反馈绑定帧号，支持编辑
+- 时间轴标记 + 快捷键跳转（< >）
+- 反馈列表排序（新→旧 / 旧→新）
+- 左右侧边栏可收起/展开
 - 导出 Excel（含截图）/ 导入 Excel 恢复审核状态
 - 状态筛选、侧边栏可拖拽调宽
 
